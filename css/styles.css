@@ -1,0 +1,89 @@
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding: 100px;
+}
+
+.middle-container {
+  background-color: #F7F6F2;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  font-size: 1.7rem;
+}
+
+a {
+  color: #11999E;
+}
+
+body {
+  text-align: center;
+  margin: 0 auto;
+  font-family: 'Merriweather', serif;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 5px;
+  width: 5%;
+  color: #C8C6C6;
+
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 400px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+  text-align: left;
+}
+
+
+
+.sale-img {
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+
+.web-img {
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+}
+
+.profilna-slika {
+  width: 10%
+}
